@@ -1,7 +1,5 @@
 # COINBASE
 
-Adrian Manlangit September 20, 2023
-
 ## Overview and Origin
 
 Coinbase, founded in 2021 by Brian Armstrong and Fred Ehrsam. Coinbase started as 
