@@ -52,4 +52,9 @@ This proposal highlights the transformative potential of crypto technology, espe
 
 ## References
 
-2 Coinbase Institute. (2023, August 22). Tokens as a potential solution for DeFi and tax. Coinbase. https://www.coinbase.com/blog/tokens-as-a-potential-solution-for-defi-and-tax 
+1 Crunch Base. “Coinbase - Crunchbase Company Profile & Funding.” Crunchbase, www.crunchbase.com/organization/coinbase. Accessed 20 Sept. 2023.
+
+2 Coinbase. “About - Coinbase.” Coinbase, 2023, www.coinbase.com/about. Accessed 20 Sept. 2023.
+
+3 Coinbase Institute. (2023, August 22). Tokens as a potential solution for DeFi and tax. Coinbase. https://www.coinbase.com/blog/tokens-as-a-potential-solution-for-defi-and-tax. Accessed 20 Sept. 2023.
+
