@@ -9,7 +9,7 @@ From there the founders wanted
 > "to build a cryptoeconomy that was more fair, accessible, efficient, and transparent financial system enabled by crypto." As of September 05, 2023 Coinbase has had 19 rounds of funding totaling $678.7M.<sup>1</sup>
 
 
-## Business Activities <sup>3</sup>
+## Business Activities
 
 > Coinbase is an online platfrom that allows merchants, consumers, and traders to transact digital currency. Today Coinbase is used +100 countries, houses $128B of assets and has $92B of quarterly volume traded. <sup>2</sup>
 
@@ -21,6 +21,7 @@ Coinbase suggests a solution: a tax attestation token issued by a trusted third 
 
 This proposal highlights the transformative potential of crypto technology, especially tokens, for efficiency, transparency, and compliance in various economic sectors, including taxation and financial auditing.
 
+See <sup>3</sup> [article](https://www.coinbase.com/blog/tokens-as-a-potential-solution-for-defi-and-tax) by Coinbase Institue 
 
 
 ## Landscape
