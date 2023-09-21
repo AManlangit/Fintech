@@ -2,6 +2,8 @@
 
 ## Overview and Origin
 
+Coinbase, incorporated on January 01, 2000, founded by Brian Armstrong and Fred Ehrsam. Coinbase started as a radical idea that anyone, anywhere, should be able to easily and securely send and receive Bitcoin. From there the founders wanted to build a cryptoeconomy that was more fair, accessible, efficient, and transparent financial system enabled by crypto.
+
 * Coinbase
 
 * Incorporated on January 01, 2000
