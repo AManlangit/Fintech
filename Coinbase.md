@@ -2,19 +2,7 @@
 
 ## Overview and Origin
 
-Coinbase, incorporated on January 01, 2000, founded by Brian Armstrong and Fred Ehrsam. Coinbase started as a radical idea that anyone, anywhere, should be able to easily and securely send and receive Bitcoin. From there the founders wanted to build a cryptoeconomy that was more fair, accessible, efficient, and transparent financial system enabled by crypto.
-
-* Coinbase
-
-* Incorporated on January 01, 2000
-
-* Founders of the company are Brian Armstrong and Fred Ehrsam
-
-* The founders wanted to build a cryptoeconomy that was more fair, accessible, efficient, and transparent financial system enabled by crypto.
-
-* This started in 2012 with the radical idea that anyone, anywhere, should be able to easily and securely send and receive Bitcoin. 
-
-* How is the company funded? How much funding have they received?
+Coinbase, founded in 2021 by Brian Armstrong and Fred Ehrsam. Coinbase started as "a radical idea that anyone, anywhere, should be able to easily and securely send and receive Bitcoin." From there the founders wanted "to build a cryptoeconomy that was more fair, accessible, efficient, and transparent financial system enabled by crypto." As of September 05, 2023 Coinbase has had 19 rounds of funding totaling $678.7M.
 
 
 ## Business Activities
