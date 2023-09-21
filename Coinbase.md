@@ -6,7 +6,7 @@
 
 * Incorporated on January 01, 2000
 
-* Who are the founders of the company?
+* Founders of the company are Brian Armstrong and Fred Ehrsam
 
 * How did the idea for the company (or project) come about?
 
