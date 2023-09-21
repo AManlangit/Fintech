@@ -1,9 +1,9 @@
-# Title
+# Module 1 Challenge
 
 ## Overview and Origin
 
-* What is the name of the company?
-Coinbase
+* Coinbase
+
 * When was the company incorporated?
 
 * Who are the founders of the company?
