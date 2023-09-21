@@ -1,19 +1,22 @@
 # Module 1 Challenge
 
-## Overview and Origin
+## Overview and Origin 1
 
 Coinbase, founded in 2021 by Brian Armstrong and Fred Ehrsam. Coinbase started as "a radical idea that anyone, anywhere, should be able to easily and securely send and receive Bitcoin." From there the founders wanted "to build a cryptoeconomy that was more fair, accessible, efficient, and transparent financial system enabled by crypto." As of September 05, 2023 Coinbase has had 19 rounds of funding totaling $678.7M.
 
 
-## Business Activities
+## Business Activities 2
 
-* What specific financial problem is the company or project trying to solve?
+Coinbase is an online platfrom that allows merchants, consumers, and traders to transact digital currency. Today Coinbase is used +100 countries, houses $128B of assets and has $92B of quarterly volume traded. 
 
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
+Coinbase is actively working to advance the adoption of cryptocurrency and blockchain technology worldwide. They became a public company in the US to support innovation in the crypto space but are concerned about the US's regulatory approach, which they believe is hindering crypto development. Decentralized finance (DeFi) is a key area of innovation, but its taxation is unclear, causing challenges for taxpayers.
 
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+Traditional tax laws are not designed for DeFi, which operates without intermediaries using blockchain, DAOs, and smart contracts. DeFi transactions are pseudonymous, lacking user identification typically associated with tax reporting. Despite this, the IRS is enforcing crypto income reporting.
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like StackShare to find this information.)
+Coinbase suggests a solution: a tax attestation token issued by a trusted third party and stored securely in a user's digital wallet. This "offchain" token can link to an "onchain" token held by an exchange, facilitating tax reporting and prepayment.
+
+This proposal highlights the transformative potential of crypto technology, especially tokens, for efficiency, transparency, and compliance in various economic sectors, including taxation and financial auditing.
+
 
 
 ## Landscape
@@ -43,3 +46,10 @@ Coinbase, founded in 2021 by Brian Armstrong and Fred Ehrsam. Coinbase started a
 * What technologies would this additional product or service utilize?
 
 * Why are these technologies appropriate for your solution?
+
+
+
+
+## References
+
+2 Coinbase Institute. (2023, August 22). Tokens as a potential solution for DeFi and tax. Coinbase. https://www.coinbase.com/blog/tokens-as-a-potential-solution-for-defi-and-tax 
