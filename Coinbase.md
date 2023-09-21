@@ -92,4 +92,3 @@ Why: Cryptocurrency as a long-term investment has become more accepted, and some
 3 Coinbase Institute. (2023, August 22). Tokens as a potential solution for DeFi and tax. Coinbase. https://www.coinbase.com/blog/tokens-as-a-potential-solution-for-defi-and-tax. Accessed 20 Sept. 2023.
 
 4 CoinMarketCap. “Top Cryptocurrency Exchanges Ranked by Volume.” CoinMarketCap, coinmarketcap.com/rankings/exchanges/. Accessed 20 Sept. 2023.
-
