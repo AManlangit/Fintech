@@ -2,7 +2,8 @@
 
 ## Overview and Origin <sup>1, 2</sup>
 
-Coinbase, founded in 2021 by Brian Armstrong and Fred Ehrsam. Coinbase started as "a radical idea that anyone, anywhere, should be able to easily and securely send and receive Bitcoin." From there the founders wanted "to build a cryptoeconomy that was more fair, accessible, efficient, and transparent financial system enabled by crypto." As of September 05, 2023 Coinbase has had 19 rounds of funding totaling $678.7M.
+Coinbase, founded in 2021 by Brian Armstrong and Fred Ehrsam. Coinbase started as "
+> a radical idea that anyone, anywhere, should be able to easily and securely send and receive Bitcoin." From there the founders wanted "to build a cryptoeconomy that was more fair, accessible, efficient, and transparent financial system enabled by crypto." As of September 05, 2023 Coinbase has had 19 rounds of funding totaling $678.7M.
 
 
 ## Business Activities ^3^
