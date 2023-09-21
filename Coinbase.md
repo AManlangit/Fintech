@@ -8,7 +8,9 @@
 
 * Founders of the company are Brian Armstrong and Fred Ehrsam
 
-* How did the idea for the company (or project) come about?
+* The founders wanted to build a cryptoeconomy that was more fair, accessible, efficient, and transparent financial system enabled by crypto.
+
+* This started in 2012 with the radical idea that anyone, anywhere, should be able to easily and securely send and receive Bitcoin. 
 
 * How is the company funded? How much funding have they received?
 
