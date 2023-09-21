@@ -4,7 +4,7 @@
 
 * Coinbase
 
-* When was the company incorporated?
+* Incorporated on January 01, 2000
 
 * Who are the founders of the company?
 
